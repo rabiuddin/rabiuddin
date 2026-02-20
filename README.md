@@ -45,7 +45,7 @@ https://gericht-restaurant-wine.vercel.app/
 🌐 **Modern Bank App UI**  
 https://modern-bank-app-rho.vercel.app/
 
-*(More demos coming soon! Add links when available.)*
+*(More demos coming soon!)*
 
 ---
 
@@ -67,7 +67,6 @@ Here are some of my GitHub projects:
 - **Tkinter-Projects** – Python GUI collection 🐍  
 - **Flipkart-clone-project** – Flipkart homepage clone (HTML/CSS)
 
-*(Add backend repos/API projects you want to highlight!)*
 
 ---
 
